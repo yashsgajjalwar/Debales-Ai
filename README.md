@@ -32,7 +32,7 @@ This is a real-time user footfall application built with Next.js, featuring user
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/SaranshBangar/debales_ai.git ./
+    git clone https://github.com/yashsgajjalwar/Debales_Ai.git ./
     ```
 
 2.  **Install dependencies:**
@@ -67,4 +67,4 @@ This is a real-time user footfall application built with Next.js, featuring user
 
 ## Contact
 
-For questions or feedback, please reach out to [Saransh Bangar](https://www.saransh-bangar.xyz/)
+For questions or feedback, please reach out to [Yash.S.Gajjalwar](yashgajjalwar@gmail.com)
